@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Hoje Trabalho com java backend
+- 🔭 Trabalho com java backend
 - 🌱 Estudo Engenharia de controle e automação e Spring boot
 - 😄 Pronouns: ele/dele
 <!--
